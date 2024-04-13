@@ -1,0 +1,1 @@
+// Dodaj do zadania 8 zapis do pliku obiektu składającego się z nazwy użytkownika oraz pobranej temperatury.
