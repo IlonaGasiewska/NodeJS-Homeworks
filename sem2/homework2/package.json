@@ -1,0 +1,15 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zad11.js",
+  "scripts": {
+    "start": "nodemon zad11.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
